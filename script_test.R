@@ -4,4 +4,6 @@
 
 # Yes, received from GitHub.com! But you pushed using Git Bash. I added this command. Now can you pull & push from RStudio?
 
-# Trying.
+# Trying. > Worked.
+
+# Tring again.
